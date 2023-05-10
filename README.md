@@ -5,7 +5,7 @@ First project of TOP
     
 
 
-I learnt: 
+I learned: 
 - How to make headings. 
 - How to make ordered and unordered lists. 
 - How to insert images.
